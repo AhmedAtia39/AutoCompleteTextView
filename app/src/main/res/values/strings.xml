@@ -1,3 +1,89 @@
 <resources>
     <string name="app_name">AutoCompleteTextView</string>
+
+    <string-array name="arr_country">
+        <item>Afghanistan</item>
+        <item>Algeria</item>
+        <item>Argentina</item>
+        <item>Australia</item>
+        <item>Austria</item>
+        <item>Bahrain</item>
+        <item>Brazil</item>
+        <item>Cameroon</item>
+        <item>Canada</item>
+        <item>China</item>
+        <item>Egypt</item>
+        <item>France</item>
+        <item>Germany</item>
+        <item>Ghana</item>
+        <item>Ghana</item>
+        <item>Hong Kong</item>
+        <item>India</item>
+        <item>Indonesia</item>
+        <item>Iraq</item>
+        <item>Israel</item>
+        <item>Italy</item>
+        <item>Japan</item>
+        <item>Jordan</item>
+        <item>Kenya</item>
+        <item>Kuwait</item>
+        <item>Lebanon</item>
+        <item>Libya</item>
+        <item>Mexico</item>
+        <item>Niger</item>
+        <item>Oman</item>
+        <item>Pakistan</item>
+        <item>Qatar</item>
+        <item>Romania</item>
+        <item>Saudi Arabia</item>
+        <item>Sudan</item>
+        <item>Spain</item>
+        <item>Taiwan</item>
+        <item>Turkey</item>
+        <item>Tunisia</item>
+        <item>United Arab Emirates</item>
+        <item>United States</item>
+        <item>Vietnam</item>
+    </string-array>
+
+    <string-array name="arr_job">
+        <item>accountant</item>
+        <item>Actors</item>
+        <item>barber</item>
+        <item>baker</item>
+        <item>barman</item>
+        <item>butcher</item>
+        <item>carpenter</item>
+        <item>cashier</item>
+        <item>chef</item>
+        <item>cleaner</item>
+        <item>dentist</item>
+        <item>doctor</item>
+        <item>electrician</item>
+        <item>engineer</item>
+        <item>fireman</item>
+        <item>hairdresser</item>
+        <item>judge</item>
+        <item>lawyer</item>
+        <item>nurse</item>
+        <item>optician</item>
+        <item>painter</item>
+        <item>photographer</item>
+        <item>plumber</item>
+        <item>policeman</item>
+        <item>porter</item>
+        <item>receptionist</item>
+        <item>reporter</item>
+        <item>sales assistant</item>
+        <item>reporter</item>
+        <item>scientist</item>
+        <item>secretary</item>
+        <item>surgeon</item>
+        <item>tailor</item>
+        <item>teacher</item>
+        <item>technician</item>
+        <item>vet</item>
+        <item>waiter</item>
+        <item>welder</item>
+    </string-array>
 </resources>
